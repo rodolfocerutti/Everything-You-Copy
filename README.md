@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](#)
-- Live Site URL: [Add live site URL here](#)
+- Solution URL: (#)
+- Live Site URL: (#)
 
 ## My process
 
@@ -50,6 +50,6 @@ I'm improving my knowledge in html css flexbox and grid
 
 ## Author
 
-- Website - [Add your name here](https://www.youtube.com/channel/UCXEj7v5iPmehTBVIP6WEqSg)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/rodolfocerutti)
+- Website - [Youtube](https://www.youtube.com/channel/UCXEj7v5iPmehTBVIP6WEqSg)
+- Frontend Mentor - [@https://www.frontendmentor.io/profile/rodolfocerutti](https://www.frontendmentor.io/profile/rodolfocerutti)
 - rodolfo.cerutti1988@gmail.com

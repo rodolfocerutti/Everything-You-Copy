@@ -1,0 +1,67 @@
+.workflow{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    padding: 6rem 0 3.5rem 0;
+}
+
+.titulo__workflow{
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--cor-dark-gray-blue);
+}
+
+.texto__workflow{
+    text-align: center;
+    font-size: 16px;
+    color: var(--cor-grayish-blue);
+}
+
+.lista__workflow{
+    display: grid;
+    grid-template-columns:  auto auto auto;
+    grid-template-rows: 1fr;
+    align-items: center;
+    padding: 2.5rem 15rem;
+    gap: 3rem;
+}
+
+.lista__workflow-detalhe{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    text-align: center;
+}
+
+.titulo__workflow-lista{
+    font-size: 24px;
+    font-weight: bold;
+    color: var(--cor-dark-gray-blue);
+}
+
+.texto__workflow-lista{
+    text-align: center;
+    font-size: 16px;
+    color: var(--cor-grayish-blue);
+    line-height: 32px;
+}
+
+@media screen and (max-width: 375px){
+    .workflow{
+        align-items: center;
+        text-align: center;
+    }
+
+    .lista__workflow{
+        grid-template-columns: 1fr;
+        align-items: center;
+        padding: 1rem 1rem;
+        gap: 2.5rem;
+    }
+
+    .workflow__imagem{
+        padding-bottom: 1.5rem;
+    }
+}

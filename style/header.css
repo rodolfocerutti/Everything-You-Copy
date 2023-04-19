@@ -28,7 +28,8 @@
 .botao{
     display: flex;
     gap: 32px;
-    padding-top: 2.5rem;
+    padding: 2.5rem 0 4rem 0;
+    cursor: pointer;
 }
 
 .botao__ios{
@@ -53,7 +54,7 @@
 
 @media screen and (max-width: 375px){
     .cabecalho{
-        background-image: url("../images/bg-header-mobile.png");
+        background-size: url("../images/bg-header-mobile.png");
         background-size: cover;
         text-align: center;
     }
@@ -62,5 +63,14 @@
         flex-wrap: wrap;
         justify-content: center;
         width: 450px;
+        padding: 2.5rem 0 2.5rem 0;
+    }
+
+    .botao__ios{
+        padding: 16px 80px;
+    }
+
+    .botao__mac{
+        padding: 16px 80px;
     }
 }
