@@ -29,12 +29,12 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (#)
+- Solution URL: (https://github.com/rodolfocerutti/Everything-You-Copy)
 - Live Site URL: (https://everything-you-copy.vercel.app/)
 
 ## My process
 
-> Status: Under development ⚠️
+> Status: Finalized ✔️
 
 ### Built with
 
