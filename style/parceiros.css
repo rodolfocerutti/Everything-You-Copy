@@ -1,0 +1,15 @@
+.logos{
+    display: grid;
+    grid-template-columns:  repeat(6, auto);
+    align-items: center;
+    justify-content: center;
+    gap: 8rem;
+    padding-top: 6rem;
+}
+
+@media screen and (max-width: 375px){
+    .logos{
+        grid-template-columns: auto;
+        gap: 4rem;
+    }
+}
